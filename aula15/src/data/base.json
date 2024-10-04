@@ -1,9 +1,41 @@
 [
-    { "id": 1, "nome": "cachorro-quente", "preco": 10.50, "desc": "Doguito" },
-    { "id": 2, "nome": "sanduba-frio", "preco": 15.55, "desc": "Chapinha" },
-    { "id": 3, "nome": "misto-cheio", "preco": 22.77, "desc": "Cheio de Vento" },
-    { "id": 4, "nome": "miauzito-dalhe", "preco": 9.80, "desc": "Churrasquinho da tia" },
-    { "id": 5, "nome": "coxinha-vem-que-tem", "preco": 7.50, "desc": "Vem que tem nada..." },
-    { "id": 6, "nome": "pastel-caxão", "preco": 7.50, "desc": "Comeu morreu!!!" }
+  { "id": 1, "nome": "cachorro-quente", "preco": 10.5, "desc": "Doguito" },
+  { "id": 2, "nome": "sanduba-frio", "preco": 15.55, "desc": "Chapinha" },
+  { "id": 3, "nome": "misto-cheio", "preco": 22.77, "desc": "Cheio de Vento" },
+  {
+    "id": 4,
+    "nome": "miauzito-dalhe",
+    "preco": 9.8,
+    "desc": "Churrasquinho da tia"
+  },
+  {
+    "id": 5,
+    "nome": "coxinha-vem-que-tem",
+    "preco": 7.5,
+    "desc": "Vem que tem nada..."
+  },
+  { "id": 6, "nome": "pastel-caxão", "preco": 7.5, "desc": "Comeu morreu!!!" },
+  { "id": 9, "nome": "pé de galinha", "preco": 5.9, "desc": "Doninha" },
+  { "id": 10, "nome": "pé de boi", "preco": 5.9, "desc": "Mocotó" },
+  { "id": 11, "nome": "pé de boi", "preco": 5.9, "desc": "Mocotó" },
+  { "id": 12, "nome": "pé de boi", "preco": 5.9, "desc": "Mocotó" },
+  { "id": 13, "nome": "pé de boi", "preco": 5.9, "desc": "Mocotó" },
+  { "id": 14, "nome": "pé de boi", "preco": 5.9, "desc": "Mocotó" },
+  { "id": 15, "nome": "pé de boi", "preco": 5.9, "desc": "Mocotó" },
+  { "id": 16, "nome": "pé de boi", "preco": 5.9, "desc": "Mocotó" },
+  { "id": 17, "nome": "pé de boi", "preco": 5.9, "desc": "Mocotó" },
+  { "id": 18, "nome": "pé de boi", "preco": 5.9, "desc": "Mocotó" },
+  { "id": 19, "nome": "pé de boi", "preco": 5.9, "desc": "Mocotó" },
+  { "id": 20, "nome": "pé de boi", "preco": 5.9, "desc": "Mocotó" },
+  { "id": 21, "nome": "pé de boi", "preco": 5.9, "desc": "Mocotó" },
+  { "id": 22, "nome": "pé de boi", "preco": 5.9, "desc": "Mocotó" },
+  { "id": 23, "nome": "pé de boi", "preco": 5.9, "desc": "Mocotó" },
+  { "id": 24, "nome": "pé de boi", "preco": 5.9, "desc": "Mocotó" },
+  { "id": 25, "nome": "pé de boi", "preco": 5.9, "desc": "Mocotó" },
+  { "id": 26, "nome": "pé de boi", "preco": 5.9, "desc": "Mocotó" },
+  { "id": 27, "nome": "pé de boi", "preco": 5.9, "desc": "Mocotó" },
+  { "id": 28, "nome": "pé de boi", "preco": 5.9, "desc": "Mocotó" },
+  { "id": 29, "nome": "pé de boi", "preco": 5.9, "desc": "Mocotó" },
+  { "id": 30, "nome": "pé de boi", "preco": 5.9, "desc": "Mocotó" },
+  { "id": 31, "nome": "pé de boi", "preco": 5.9, "desc": "Mocotó" }
 ]
-
